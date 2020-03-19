@@ -1,5 +1,6 @@
 # WeatherApp
-An project simple created using **nodejs** and **react-native** to discover current weather of your city and save
+An project simple created using **nodejs** and **react-native** to discover current weather of your city and save.
+This project use Api Google Places Autocomplete(https://developers.google.com/places/web-service/autocomplete) and Api Open Weather Map(https://openweathermap.org/)
 
 # Install and Run
   - install package in each folder:
